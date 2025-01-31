@@ -24,7 +24,7 @@
    Анализ тональности текстовых отзывов
 
 3. **Определение видов растений**  
-   Классификация изображений с использованием CNN
+   Классификация изображений
 
 ### 💻 Как использовать
 1. Клонировать репозиторий:
@@ -73,7 +73,7 @@ Regression with Moscow geo-data processing
 Sentiment analysis of text reviews
 
 3. **Plant Species Identification**
-Image classification using CNN
+Image classification
 
 ### 💻 Quick Start
 1. Clone repository:
