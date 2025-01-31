@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## English
 ### **🏆 Results**
-**Final Rank**: 31
+**Final Rank**: 31  
 **Total Score**: 1170/1200
 
 ### 🧩 Repository Structure
