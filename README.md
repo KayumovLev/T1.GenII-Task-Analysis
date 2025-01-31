@@ -13,7 +13,7 @@
 ```bash
 ├── RU/                # Разборы на русском
 ├── EN/                # Английские версии решений
-├── requirements/                # Файлы зависимостей
+├── requirements.txt   # Библиотеки
 ```
 
 ### 🔍 Описание задач (ML-треки)
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```bash
 ├── RU/               # Russian solutions
 ├── EN/               # English solutions
-├── requirements/     # Dependency files
+├── requirements.txt  # Libraries
 ```
 ### 🔍 Task Descriptions (ML Track)
 1. **Real Estate Price Prediction**
